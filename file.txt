@@ -1,2 +1,1 @@
-hello2
-3aizen nkhlas
+2 int
